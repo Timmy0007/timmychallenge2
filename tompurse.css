@@ -1,0 +1,489 @@
+.navbar{
+    display: flex;
+    margin:0;
+    padding: 0;
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 86px;
+    align-items: center;
+}
+
+.tompurselogo{
+    margin-left: 54px;
+    width: 172px;
+    height: 64.54px;
+}
+
+.navs{
+    margin-left: 46px;
+    list-style: none;
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #254094;
+}
+
+.home{
+    width: 45px;
+    height: 19px;
+}
+
+.about{
+    margin-left: 34px;
+    width: 71px;
+    height: 19px;
+}
+
+.invest{
+    margin-left: 34px;
+    width: 46px;
+    height: 19px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.login{
+    list-style: none;
+    margin-left: 420px;
+    width: 47px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #254094;
+}
+
+.getstarted{
+    margin-left: 12px;
+    width: 140px;
+    height: 38px;
+    background: #254094;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 50px;
+}
+
+.section2{
+    display: flex;
+    width: 100%;
+    height: 460px;
+    background-color: #022B69;;
+}
+
+
+.getstarted1{
+    width: 184px;
+    height: 43px;
+    background: #FFFFFF;
+    border-radius: 50px;
+    margin-top: 230px;
+    margin-left: 73px;
+}
+
+.gs{
+    margin-top: 
+}
+
+.iphonelogo{
+    width: 171.22px;
+    height: 397.82px;
+    margin-left: 685px; 
+    margin-top: 35px;
+}
+
+.section3{
+    display: flex;
+    margin-left: 73px;
+    height: 560px;
+}
+
+.section3a{
+    margin-top: 125px;
+}
+
+.guide{
+    width: 298px;
+    height: 132px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #3D3D46;
+}
+
+
+.we{
+    width: 293px;
+    height: 76px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3D3D46;
+    margin-top: -55px;
+}
+
+.learn{
+    width: 75px;
+    height: 17px;
+    margin-top: -20px;
+    width: 75px;
+    height: 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 14px;
+    line-height: 17px;
+    color: #0000FF;
+
+}
+
+.section3b{
+    width: 398px;
+    height: 385px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-top: 75px;
+}
+
+
+.inv{
+    margin-left: 35px;
+    width: 230px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3D3D46;
+
+
+}
+
+.invimg{
+    margin-right: 10px;
+
+}
+
+.set{
+   margin-left: 75px;
+   width: 303px;
+   height: 51px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #535461;
+
+
+}
+
+
+.later{
+    margin-left: 35px;
+    width: 140px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3D3D46;
+
+
+}
+
+.laterimg{
+    margin-right: 10px;
+}
+
+.set{
+   margin-left: 75px;
+   width: 303px;
+   height: 51px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #535461;
+}
+
+.grow1{
+    margin-left: 35px;
+    width: 200px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #3D3D46;
+}
+
+.grow1img{
+    margin-right: 13px;
+}
+
+.set{
+   margin-left: 75px;
+   width: 303px;
+   height: 51px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #535461;
+}
+
+
+.section4{
+    width: 100%;
+     height: 450px;
+     background: #022B69;
+     display: flex;
+}
+
+.nouneclipse{
+    width: 350px;
+    height: 350px;
+    margin-top: 50px;
+    margin-left: 52px;
+}
+
+.nounpadlock{
+    height: 350px;
+    margin-bottom: -38px;
+    margin-left: -315px
+}
+
+.section4b{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+
+.security{
+    width: 330px;
+    height: 44px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.alldata{
+    width: 350px;
+    height: 38px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 75px;
+}
+
+.learn2{
+    width: 97px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color:#1AD5FE;
+    margin-left: 120px;
+}
+
+.learn2con{
+    margin-top: 44px;
+}
+
+.our{
+    width: 350px;
+    height: 29px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #F8F8FD;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.section5a{
+    margin-top: 120px;
+    margin-left: 350px;
+}
+
+.zero{
+    width: 430px;
+    height: 44px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 80px;
+    color: #022B69;
+}
+
+.ourcompany{
+    width: 500px;
+    height: 29px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 20px;
+    color: #3D3D46;
+    margin-left: -20px;
+}
+
+.section5b{
+    margin-top: 65px;
+    display: flex;
+    margin-left: 73px;
+}
+
+.section5b1{
+    width: 335px;
+    height: 323px;
+    background: linear-gradient(157.9deg, #022B69 37.56%, #0066F5 106.92%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 2px rgba(0, 0, 0, 0.06), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+}
+
+.finimg{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.fin{
+    width: 240px;
+    height: 23px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.ourpay1{
+    width: 230px;
+    height: 57px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 40px;
+
+}
+
+.section5b2{
+    margin-left: 30px;
+    width: 335px;
+    height: 323px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 2px rgba(0, 0, 0, 0.06), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+}
+
+.swiftpimg{
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.swift{
+    width: 240px;
+    height: 23px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-left: 62px;
+    margin-top: 5px;
+    color: #022B69;
+}
+
+.ourpay2{
+    width: 230px;
+    height: 57px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    color: #022B69;
+}
+
+.section5b3{
+    margin-left: 30px;
+    width: 335px;
+    height: 323px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.04), 0px 0px 2px rgba(0, 0, 0, 0.06), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+}
+
+.easyimg{
+    margin-left: 135px;
+    margin-top: 30px;
+}
+
+.easy{
+    width: 240px;
+    height: 23px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-left: 75px;
+    margin-top: 5px;
+    color: #022B69;
+}
+
+.ourpay3{
+    width: 230px;
+    height: 57px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-left: 40px;
+    color: #022B69;
+}
+
+
+
+
