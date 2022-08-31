@@ -1,0 +1,531 @@
+.navbar{
+    display: flex;
+    margin:0;
+    padding: 0;
+    background-color: #F4F8FC;;
+    width: 100%;
+    height: 86px;
+    align-items: center;
+}
+
+.tompurselogo{
+    margin-left: 54px;
+    width: 172px;
+    height: 64.54px;
+}
+
+.navs{
+    margin-left: 46px;
+    list-style: none;
+    display: flex;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #254094;
+}
+
+.home{
+    width: 45px;
+    height: 19px;
+}
+
+.about{
+    margin-left: 34px;
+    width: 71px;
+    height: 19px;
+}
+
+.invest{
+    margin-left: 34px;
+    width: 46px;
+    height: 19px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.login{
+    list-style: none;
+    margin-left: 420px;
+    width: 47px;
+    height: 19px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #254094;
+}
+
+.getstarted{
+    margin-left: 12px;
+    width: 140px;
+    height: 38px;
+    background: #254094;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.04), 0px 2px 6px rgba(0, 0, 0, 0.04), 0px 0px 1px rgba(0, 0, 0, 0.04);
+    border-radius: 50px;
+}
+
+
+.ourc{
+    padding-left: 280px;
+    width: 584px;
+    height: 116px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #022B69;
+    
+    
+}
+
+.helpinv{
+    padding-left: 280px;
+    margin-top: -20px;
+    width: 572px;
+    height: 38px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 19px;
+    text-align: center;
+    color: #3D3D46;
+}
+
+.section2b{
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 180px;
+
+}
+
+.littleS{
+    padding-top: 150px;
+}
+
+.little{
+    padding-left: 80px;
+    width: 255px;
+    height: 29px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #022B69;
+}
+
+.in{
+    padding-left: 80px;
+    width: 433px;
+    height: 204px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    color: #5A5773;
+
+}
+
+.tompurseimg{
+    padding-left: 250px
+}
+
+
+.section3{
+    width: 100%;
+    height: 561px;
+    background: #F4F8FC;
+}
+
+
+.def{
+    padding-top: 50px;
+    margin-left: 375px;
+    width: 439px;
+    height: 44px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #022B69;
+}
+
+.section3b{
+    margin-left: 70px;
+    display: flex;
+}
+
+.section3b1{
+    width: 330px;
+    height: 352px;
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.section3b2{
+    margin-left: 40px;
+    width: 330px;
+    height: 352px;
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.section3b3{
+    margin-left: 40px;
+    width: 330px;
+    height: 352px;
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.cust{
+    padding-top: 30px;
+    padding-left: 30px;
+    width: 141px;
+    height: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #022B69;
+}
+
+.we{
+    padding-left: 30px;
+    width: 234px;
+    height: 85px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #5A5773;
+}
+
+.custimg{
+    position: relative;
+    padding-left: 200px;
+}
+
+.custelipse{
+    position: absolute;
+    top: 1247px;
+    left: 285px;
+}
+
+.section4a{
+    padding-top: 170px;
+    padding-left: 370px;
+    width: 460.36px;
+    height: 67.63px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27.6679px;
+    line-height: 33px;
+    text-align: center;
+    color: #022B69;
+}
+
+
+.section4b{
+    padding-left: 95px;
+    padding-bottom: 135px;
+}
+.section4class{
+    width: 200px;
+    height: 23px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #022B69;
+}
+
+.semper{
+    width: 767px;
+    height: 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1AD5FE;
+}
+
+.register{
+    width: 469px;
+    height: 17px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1AD5FE;
+}
+
+.section5{
+    background: #022B69;
+}
+
+.section5a{
+    width: 347px;
+    height: 371px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;   
+    margin-left: 420px;
+    padding-top: 40px;
+}
+
+
+.getstarted4{
+    margin-top: 30px;
+    width: 213px;
+    height: 57.81px;
+    background: #DDFA00;
+    box-shadow: 0px 15.2143px 30.4286px rgba(0, 0, 0, 0.04), 0px 3.04286px 9.12857px rgba(0, 0, 0, 0.04), 0px 0px 1.52143px rgba(0, 0, 0, 0.04);
+    border-radius: 76.0714px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21.3px;
+    line-height: 26px;
+    color: #022B69;
+    margin-left: 70px ;
+}
+
+.gets4{
+    position: relative;
+    z-index: 4;
+    width: 120.19px;
+    height: 25.86px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21.3px;
+    line-height: 26px;
+    color: #022B69;
+
+
+}
+
+.hr5{
+    border: 1px solid #1AD5FE;
+}
+
+
+.recu{
+    position: absolute;
+    top: 2744px;
+    left: 320px;
+    z-index: 3;
+    background-color: rgba(14, 52, 79, 0.5);
+}
+.reclb{
+    z-index: 2;
+    position: absolute;
+    top: 2506px;
+    left: 540px;
+}
+
+.recdb{
+    z-index: 1;
+    position: absolute;
+    top: 2510px;
+    left: 320px;
+}
+
+.section5b{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-bottom: 210px;
+}
+
+.tompursewhiteimg{
+    margin-top: -10px;
+    
+}
+
+.company{
+    margin-left: 120px;
+    color: white;
+    width: 93px;
+    height: 13px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #1AD5FE;
+}
+
+.com{
+    width: 106.51px;
+    height: 40.61px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.com1{
+    margin-top: 25px;
+}
+
+.product{
+    margin-left: 120px;
+    color: white;
+    width: 93px;
+    height: 13px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #1AD5FE;
+}
+
+.pro{
+    width: 106.51px;
+    height: 40.61px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.company{
+    margin-left: 120px;
+    color: white;
+    width: 93px;
+    height: 13px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #1AD5FE;
+}
+
+.com{
+    width: 106.51px;
+    height: 40.61px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.com1{
+    margin-top: 25px;
+}
+
+.quick{
+    margin-left: 120px;
+    color: white;
+    width: 93px;
+    height: 13px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #1AD5FE;
+}
+
+.ql{
+    width: 106.51px;
+    height: 40.61px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.com1{
+    margin-top: 25px;
+}
+
+.connect{
+    margin-left: 120px;
+    color: white;
+    width: 93px;
+    height: 13px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+    color: #1AD5FE;
+}
+
+.con{
+    width: 106.51px;
+    height: 40.61px;
+    font-family: 'Gotham Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.com1{
+    margin-top: 25px;
+}
+
+.suite{
+    margin-top: 25px;
+    width: 180px;
+}
+
+.inst, .twi, .clock{
+    margin-left: 5px;
+}
+
+.hr5b{
+    width: 100%;
+    height: 0px;
+    border: 1px solid #1AD5FE;
+}
+
+.footer{
+    width: 985px;
+    height: 51px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="sectiona">
+    <div class="section1">
+    <p class="welcome">Welcome,</p>
+    <p class="reg">Register in to continue</p>
+    </div>
+    <main class="SignupContainer">
+        <header class="header">
+            <h1>Login to your account</h1>
+        </header>
+        <form action="" method="GET" id="form">
+            <label class="fullname">Full Name</label>
+            <div class="nameDiv">
+            <div class="firstNameDiv">
+                <input type="text" placeholder="First Name" class="firstName" id="firstName">
+                <small>Error message</small>
+                </div>
+                <div class="lastNameDiv">
+                    <input type="text" placeholder="Last Name" class="lastName" id="lastName">
+                    <small>Error message</small>
+                </div>
+            </div>
+            <label class="email1">Email</label>
+            <div class="form-control">
+                <input type="email" placeholder="tobbey@email.com" class="email" id="email">
+                <small>Error message</small>
+            </div>
+            <label class="password1">Password</label>
+            <div class="form-control">
+                <input type="password" class="password" id="password">
+                <small>Error message</small>
+            </div>
+            <label class="conf">Confirm Password</label>
+            <div class="form-control">
+                <input type="password" class="confirmPassword" id="confirmPassword">
+                <small>Error message</small>
+            </div>
+        </form>
+        <p class="old">Old User? <a class="old2" href="login.html">Log in</a></p>
+        <button class="login">
+            <p class="login2">Log in</p>
+            </button>
+    </main>
+    </section>
+</body>
+<script src="signup.js"></script>
+</html>
