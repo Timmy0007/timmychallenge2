@@ -49,7 +49,7 @@ a{
 
 .login{
     list-style: none;
-    margin-left: 420px;
+    margin-left: 350px;
     width: 47px;
     height: 19px;
     font-family: 'Inter';
@@ -69,7 +69,9 @@ a{
     border-radius: 50px;
 }
 
-
+.hamburger{
+    display: none;
+}
 .ourc{
     padding-left: 280px;
     width: 584px;
@@ -529,3 +531,575 @@ a{
     line-height: 17px;
     color: #FFFFFF;
 }
+
+@media screen and (max-width:480px){
+    .hamburger{
+        display: block;
+     }
+     .navs, .login, .getstarted{
+     display: none;
+     }
+
+     .tompurselogo{
+        margin-left: -20px;
+     }
+     .hamburger{
+        display: block;
+        width: 30px;
+        margin-left: 170px;
+     }
+
+     .section2a{
+        margin: 0;
+        padding: 0;
+        height:5px ;
+     }
+
+     .ourc{
+        margin-left: -370px;
+        font-size: 14px;
+     }
+     .helpinv{
+        width: 350px;
+        font-size: 14px;
+        margin-left: -270px;
+     }
+
+     .section2b{
+        padding-top: 20px;
+        height: 500px;
+        display: block;
+     }
+     .tompurseimg{
+        margin-top: 40px;
+        margin-left: -60px;
+        height: 200px;
+     }
+    
+     .in{
+        width: 283px;
+        font-size: 17px;
+        margin-left: -30px;
+     }
+
+     .def{
+        margin-left: -30px;
+        font-size: 22px;
+     }
+
+     .section3{
+        height: 450px;
+     }
+
+     .section3b{
+        display: block;
+     }
+
+     .section3b1{
+        margin-left: -50px;
+        height: 260px;
+     }
+
+     .section3b2, .section3b3{
+        display: none;
+     }
+
+     .custimg, .custelipse{
+        display: none;
+     }
+
+     .section4a{
+        padding-left: 30px;
+        font-size: 22px;
+        width: 300px;
+     }
+
+     .semper, .register{
+        margin-left: -50px;
+        font-size: 20px;
+        width: 300px;
+        height: 50px;
+     }
+
+
+     .section5a{
+        margin-left: 20px;
+        }
+    
+        .section5b{
+            margin-left: 0;
+            display: block;
+        }
+    
+        .recdb, .reclb, .recu{
+            display: none;
+        }
+
+        .company{
+            width: 300px;
+            font-size: 16px;
+            margin-left: 20px;
+            margin-top: -10px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .product{
+            width: 350px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .quick{
+            width: 280px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .connect{
+            width: 300px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 60px;
+        }
+    
+        .com1{
+            margin-left: 5px;
+        }
+    
+        .smimg{
+            margin-left: 30px;
+        }
+        #numb{
+            margin-top: 80px;
+            margin-left: -105px;
+            display: block;
+        }
+        .su{
+            margin-top: 120px;
+            line-height: 19px;
+            margin-left: -290px;
+        }
+        .footer{
+            margin-left: 15px;
+            font-size: 18px;
+            width: 330px;
+        }
+    
+        #footer2{
+            margin-top: 90px;
+        }
+        #footer3{
+            margin-top: -30px;
+        }
+     
+
+}
+
+
+@media screen and (max-width:767px) and (min-width:481px){
+
+    .hamburger{
+        display: block;
+     }
+     .navs, .login, .getstarted{
+     display: none;
+     }
+
+     .tompurselogo{
+        margin-left: -20px;
+     }
+     .hamburger{
+        display: block;
+        width: 30px;
+        margin-left: 270px;
+     }
+
+     .section2a{
+        margin: 0;
+        padding: 0;
+        height:5px ;
+     }
+
+     .ourc{
+        margin-left: -330px;
+        font-size: 14px;
+     }
+     .helpinv{
+        width: 350px;
+        font-size: 14px;
+        margin-left: -210px;
+     }
+
+     
+     .section2b{
+         display: block;
+         padding-top: 20px;
+         height: 500px;
+         margin-left: 50px;
+        }
+        
+        .tompurseimg{
+           margin-top: 40px;
+           margin-left: -60px;
+           height: 200px;
+        }
+    
+     .in{
+        width: 283px;
+        font-size: 17px;
+        margin-left: -30px;
+     }
+
+     .def{
+        margin-left: 30px;
+        font-size: 22px;
+     }
+
+     .section3{
+        height: 450px;
+     }
+
+     .section3b{
+        display: block;
+     }
+
+     .section3b1{
+        margin-left: 10px;
+        height: 260px;
+     }
+
+     .section3b2, .section3b3{
+        display: none;
+     }
+
+     .custimg, .custelipse{
+        display: none;
+     }
+
+     .section4a{
+        margin-top: -120px;
+        padding-left: 80px;
+        font-size: 22px;
+        width: 300px;
+     }
+
+    .section4class{
+        margin-left: 40px;
+    }
+
+
+     .semper, .register{
+        margin-left: 0px;
+        font-size: 20px;
+        width: 300px;
+        height: 50px;
+     }
+
+
+     .section5a{
+        margin-left: 70px;
+        }
+    
+        .section5b{
+            margin-left: 0;
+            display: block;
+        }
+    
+        .recdb, .reclb, .recu{
+            display: none;
+        }
+        .company{
+            width: 300px;
+            font-size: 16px;
+            margin-left: 20px;
+            margin-top: -10px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .product{
+            width: 350px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .quick{
+            width: 280px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .connect{
+            width: 300px;
+            font-size: 16px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 60px;
+        }
+    
+        .com1{
+            margin-left: 30px;
+        }
+    
+        .smimg{
+            margin-left: 30px;
+        }
+        #numb{
+            margin-top: 80px;
+            margin-left: -105px;
+            display: block;
+        }
+        .su{
+            margin-top: 120px;
+            line-height: 19px;
+            margin-left: -290px;
+        }
+        .footer{
+            margin-left: 15px;
+            font-size: 18px;
+            width: 330px;
+        }
+    
+        #footer2{
+            margin-top: 100px;
+        }
+        #footer3{
+            margin-top: -20px;
+        }
+     
+
+}
+
+
+@media screen and (max-width:1023px) and (min-width:768px){
+
+    .hamburger{
+        display: block;
+     }
+     .navs, .login, .getstarted{
+     display: none;
+     }
+
+     .tompurselogo{
+        margin-left: 20px;
+     }
+     .hamburger{
+        display: block;
+        width: 30px;
+        margin-left: 470px;
+     }
+
+     .section2a{
+        margin: 0;
+        padding: 0;
+        height:5px ;
+     }
+
+     .ourc{
+        margin-left: -180px;
+        font-size: 27px;
+     }
+     .helpinv{
+        width: 450px;
+        font-size: 18px;
+        margin-left: -100px;
+     }
+
+     .section2b{
+        padding-top: 20px;
+        height: 300px;
+        margin-left: 50px;
+     }
+
+    .tompurseimg{
+        height: 300px;
+        margin-top: 190px;
+    }
+     .in{
+        width: 283px;
+        font-size: 17px;
+        margin-left: -30px;
+     }
+
+     .def{
+        margin-left: 150px;
+        font-size: 22px;
+     }
+
+     .section3{
+        height: 450px;
+     }
+
+     .section3b{
+        display: flex;
+        margin-left: 35px;
+     }
+
+     .section3b1, .section3b2{
+        margin-left: 0;
+        height: 260px;
+     }
+
+     .section3b2{
+        margin-left: 30px;
+     }
+
+     .section3b3{
+        display: none;
+     }
+
+     .custimg, .custelipse{
+        display: none;
+     }
+
+     .section4a{
+        margin-top: -120px;
+        padding-left: 240px;
+        font-size: 22px;
+        width: 300px;
+     }
+
+    .section4class{
+        margin-left: 200px;
+    }
+
+
+     .semper, .register{
+        margin-left: 150px;
+        font-size: 20px;
+        width: 300px;
+        height: 50px;
+     }
+
+
+     .section5a{
+        margin-left: 200px;
+        }
+    
+    .section5b{
+            margin-left: 30px;
+            display: block;
+        }
+    
+        .company{
+            width: 700px;
+            font-size: 27px;
+            margin-left: 20px;
+            margin-top: -10px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .product{
+            width: 700px;
+            font-size: 27px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .quick{
+            width: 700px;
+            font-size: 27px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 50px;
+        }
+        .connect{
+            width: 700px;
+            font-size: 27px;
+            margin-left: 20px;
+            display: flex;
+            margin-bottom: 60px;
+        }
+    
+        .com1{
+            margin-left: 30px;
+        }
+    
+        .smimg{
+            margin-left: 30px;
+        }
+
+        .su{
+            margin-top: 120px;
+            line-height: 27px;
+            margin-left: -500px;
+        }
+
+        .recdb, .reclb, .recu{
+            display: none;
+        }
+
+        .footer{
+            margin-left: 15px;
+            font-size: 29px;
+            width: 700px;
+            line-height: 27px;
+        }
+    
+        #footer2{
+            margin-top: 150px;
+        }
+
+        #footer3{
+            margin-top: -30px;
+        }
+    }
+
+    
+         @media screen and (max-width:1150px) and (min-width:1024px){
+        
+            .hamburger{
+                display: block;
+             }
+             .nav, .login, .getstarted{
+             display: none;
+             }
+             .tompurselogo{
+                margin-left: 20px;
+             }
+        
+             .getstarted1{
+                width: 260px;
+                height:80px;
+                margin-left: 30px;
+                margin-top: 240px;
+             }
+        
+             .hamburger{
+                display: block;
+                width: 30px;
+                margin-left: 45%;
+             }
+        
+             .section2a{
+                margin-left: -60px;
+             }
+
+             .def{
+                margin-left: 300px;
+             }
+
+             .section3b{
+                margin-left: 20px;
+             }
+
+             .custelipse{
+                left: 240px;
+             }
+
+             .section4a{
+                margin-left: -50px;
+             }
+
+             .section5a{
+                margin-left: 320px;
+             }
+
+             .company, .product, .quick, .connect{
+                margin-left: 80px;
+             }
+        } 
